@@ -16,6 +16,6 @@ Clique aqui para ver o: [Projeto Hospedado](https://restaurantecherimoia.pabrito
 
 ## Imagens do Site:
 ![CheriFunc2](https://user-images.githubusercontent.com/74545818/148425216-5970bda3-7386-4537-9f8a-cd152891581f.PNG)
-![CheriFunc1](https://user-images.githubusercontent.com/74545818/148425544-0cf3165b-8bcc-4a86-b2c2-833fcf1d1c55.PNG)
+![CheriFunc1](https://user-images.githubusercontent.com/74545818/148427053-c8ff7367-3d35-4f18-9d69-056851b10e3b.PNG)
 
 *Feito por: [Pablo Silva](https://github.com/PabloSilvaX) :writing_hand: :heart:*
