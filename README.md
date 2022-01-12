@@ -9,6 +9,7 @@ Foram feitas 7 seções ao decorrer da pagina além do Navbar e o Footer de mane
 Tecnologias Usadas:
 * React
 * JSX
+* HTML
 * CSS
 * JAVASCRIPT
 
